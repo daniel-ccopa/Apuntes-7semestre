@@ -1,6 +1,6 @@
 # Aprendizaje Supervisado - 2024-II
 
-![Aprendizaje Supervisado](./images/aprendizaje-supervisado.png)
+![Aprendizaje Supervisado](/./images/aprendizaje-supervisado.png)
 
 ## Facultad de Ingeniería Estadística e Informática  
 **Escuela Profesional de Ingeniería Estadística e Informática**
