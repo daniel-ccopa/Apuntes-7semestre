@@ -1,6 +1,6 @@
 # Metodología de la Investigación - 2024-II
 
-![Aprendizaje Supervisado](./images/metodologia-investigacion.png)
+![Metodologia de la Investigacion](./images/metodologia-investigacion.png)
 
 Este repositorio contiene las notas, trabajos, y recursos relacionados con el curso **Metodología de la Investigación** del semestre 2024-II, perteneciente a la Facultad de Ingeniería Estadística e Informática.
 
