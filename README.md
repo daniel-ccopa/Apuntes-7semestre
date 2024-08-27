@@ -6,6 +6,8 @@ Este repositorio contiene los apuntes, trabajos, y recursos relacionados con los
 
 ### 1. Sistemas Distribuidos
 
+![Sistemas Distribuidos](images/sistemas-distribuidos.png)
+
 **Descripción**: Este curso aborda los principios y arquitecturas de los sistemas distribuidos, explorando cómo se comunican los nodos dentro de una red y cómo se gestionan los recursos distribuidos. Se cubrirán temas como modelos de comunicación, algoritmos distribuidos, coherencia de datos, y técnicas de tolerancia a fallos.
 
 - **Temas Principales**:
@@ -15,6 +17,8 @@ Este repositorio contiene los apuntes, trabajos, y recursos relacionados con los
   - Tolerancia a fallos
 
 ### 2. Estadística Bayesiana
+
+![Estadística Bayesiana](images/estadistica-bayesiana.png)
 
 **Descripción**: Este curso introduce los conceptos y métodos fundamentales de la estadística bayesiana, proporcionando herramientas para la inferencia y modelado estadístico bajo un enfoque bayesiano. Se estudiarán distribuciones previas, verosimilitud, posterior, y el uso de métodos computacionales como MCMC.
 
@@ -26,6 +30,8 @@ Este repositorio contiene los apuntes, trabajos, y recursos relacionados con los
 
 ### 3. Ingeniería de Software I
 
+![Ingeniería de Software I](images/ingenieria-software.png)
+
 **Descripción**: Este curso ofrece una introducción a los fundamentos de la ingeniería de software, centrándose en el ciclo de vida del desarrollo de software, desde la especificación de requisitos hasta la implementación y pruebas. Se enfatiza en el diseño arquitectónico y la gestión de proyectos de software.
 
 - **Temas Principales**:
@@ -35,6 +41,8 @@ Este repositorio contiene los apuntes, trabajos, y recursos relacionados con los
   - Pruebas y aseguramiento de la calidad
 
 ### 4. Metodología de la Investigación
+
+![Metodología de la Investigación](images/metodologia-investigacion.png)
 
 **Descripción**: En este curso, se exploran las metodologías de la investigación científica, con un enfoque en la formulación de problemas de investigación, diseño de proyectos, y redacción de informes científicos. El objetivo es desarrollar habilidades para llevar a cabo investigaciones rigurosas en las áreas de estadística e informática.
 
@@ -46,6 +54,8 @@ Este repositorio contiene los apuntes, trabajos, y recursos relacionados con los
 
 ### 5. Aprendizaje Supervisado
 
+![Aprendizaje Supervisado](images/aprendizaje-supervisado.png)
+
 **Descripción**: Este curso cubre los conceptos y técnicas fundamentales del aprendizaje supervisado, una rama del machine learning que se basa en el uso de datos etiquetados para entrenar modelos predictivos. Se estudiarán algoritmos como regresión lineal, árboles de decisión, SVM, y redes neuronales.
 
 - **Temas Principales**:
@@ -55,6 +65,8 @@ Este repositorio contiene los apuntes, trabajos, y recursos relacionados con los
   - Redes neuronales
 
 ### 6. Administración de Redes
+
+![Administración de Redes](images/administracion-redes.png)
 
 **Descripción**: Este curso se enfoca en la configuración, administración, y monitoreo de redes de computadoras. Se estudiarán protocolos de red, configuración de routers y switches, así como técnicas de seguridad y resolución de problemas en redes.
 
@@ -77,4 +89,5 @@ Este repositorio contiene los apuntes, trabajos, y recursos relacionados con los
 
 1. **Clonar el Repositorio**: 
    ```bash
-   git clone https://github.com/tu-usuario/apuntes-7mo-semestre.git
+   git clone https://github.com/daniel-ccopa/apuntes-7mo-semestre.git
+   
