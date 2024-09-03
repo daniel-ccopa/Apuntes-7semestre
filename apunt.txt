@@ -1,2 +1,2 @@
 sudo mount /dev/nvme0n1p3 /mnt
-daniel@daniel-VivoBook-ASUSLaptop-X515UA-M515UA:~$ sudo umount -f /mnt
+sudo umount -f /mnt
