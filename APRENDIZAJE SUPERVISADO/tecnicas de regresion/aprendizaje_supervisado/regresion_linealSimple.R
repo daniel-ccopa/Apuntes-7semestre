@@ -18,7 +18,7 @@ boxplot(Y)
 boxplot(X)
 
 
-attach(datos)
+# attach(datos)
 # representación gráfica
 # histograma de frecuencias para las variables X e Y
 require(ggplot2) 
@@ -131,4 +131,26 @@ ggplot(data = datos, aes(x = prediccion, y = residuos)) +
   theme_bw() +
   theme(plot.title = element_text(hjust = 0.5), legend.position = "none")
 
+
+# Distribución normal de los residuos:
+ggplot(data = datos, aes(x = residuos)) +
+  geom_histogram(aes(y = ..density..)) +
+  labs(title = "Histograma de los residuos") +
+  theme_bw() +
+  theme(plot.title = element_text(hjust = 0.5))
+
+
+# grafico de cuantiles
+qqnorm(modelo_lineal$residuals)
+qqline(modelo_lineal$residuals)
+
+
+# test de normalidad
+shapiro.test(modelo_lineal$residuals)
+
+
+# Kolmogorov test
+ks.test(modelo_lineal$residuals, "pnorm",
+        mean = mean(modelo_lineal$residuals),
+        sd = sd(modelo_lineal$residuals))
 

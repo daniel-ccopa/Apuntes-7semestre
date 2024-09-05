@@ -2,12 +2,11 @@ strings = []
 print("Ingresa las cadenas una por una.")
 
 while True:
-    cadena = input(f"Ingresa una cadena: ").strip()
+    cadena = input(f"Cadena: ").strip()
     if cadena == "":
         break
     strings.append(cadena)
 
-# burbuja
 def burbuja(arr):
     n = len(arr)
     for i in range(n):
