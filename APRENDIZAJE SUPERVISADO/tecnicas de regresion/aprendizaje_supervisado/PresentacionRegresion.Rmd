@@ -1,0 +1,144 @@
+---
+title: "Análisis de Regresión Lineal y Modelos Complementarios"
+author: "Daniel"
+date: "2024-09-09"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Introducción
+
+En este análisis se utilizarán los datos de Boston Housing para observar la relación entre la edad de los inmuebles (**age**) y el valor medio de la vivienda (**medv**). Se desarrollarán modelos de regresión lineal, polinomial, árboles de decisión y se emplearán técnicas avanzadas como el bootstrapping.
+
+## Carga de datos
+
+```{r}
+# Cargar librerías necesarias
+library(dplyr)
+
+# Cargar el dataset
+datos1 <- read.csv("Boston.csv", head=T, sep=",")
+
+head(datos1)
+
+```
+
+## Variables
+
+```{r setup, include=FALSE}
+
+datos <- select(datos1, age, medv)
+# Renombrar variables
+datos <- rename(Y = medv , X = age,.data = datos)
+
+# Ver la estructura del dataset
+str(datos)
+```
+
+## Graficos descriptivos
+
+Se presentan los gráficos descriptivos para observar la distribución de las variables age y medv.
+
+```{r}
+# Boxplot de las variables
+par(mfrow = c(1, 2))
+boxplot(datos$Y, main = "Boxplot: Valor Medio de la Vivienda (medv)", col = "blue")
+boxplot(datos$X, main = "Boxplot: Edad del Inmueble (age)", col = "red")
+
+# Histogramas
+hist(datos$X, breaks = 10, main = "Histograma: Edad", xlab = "Age", col = "darkred")
+hist(datos$Y, breaks = 10, main = "Histograma: Valor Medio de la Vivienda", xlab = "Medv", col = "blue")
+
+```
+
+## Modelo
+
+Se ajustará un modelo de regresión lineal simple para predecir el valor medio de la vivienda en función de la edad del inmueble.
+
+```{r}
+# Cálculo del modelo de regresión lineal simple
+modelo_lineal <- lm(Y ~ X, data=datos)
+summary(modelo_lineal)
+
+# Diagrama de dispersión con línea de regresión
+require(ggplot2)
+ggplot(data = datos, mapping = aes(x = X, y = Y)) + 
+  geom_point(size = 3, color = "firebrick") + 
+  geom_smooth(method = "lm", se = FALSE, color = "blue") +
+  labs(title = "Diagrama de Dispersión y Línea de Regresión", x = "Edad", y = "Valor Medio de Vivienda") +
+  theme_bw()
+
+```
+
+## Modelo Polinomial
+
+Se ajustará un modelo polinomial para capturar relaciones no lineales entre age y medv.
+
+```{r}
+# Modelo polinomial de segundo grado
+modelo_polinomial <- lm(Y ~ poly(X, 2), data = datos)
+summary(modelo_polinomial)
+
+# Gráfico del modelo polinomial
+ggplot(data = datos, mapping = aes(x = X, y = Y)) + 
+  geom_point(size = 3, color = "firebrick") + 
+  geom_smooth(method = "lm", formula = y ~ poly(x, 2), se = FALSE, color = "green") +
+  labs(title = "Diagrama de Dispersión y Ajuste Polinomial", x = "Edad", y = "Valor Medio de Vivienda") +
+  theme_bw()
+
+```
+
+## Arboles
+
+El siguiente análisis se basa en un árbol de decisión para modelar la relación entre age y medv.
+
+```{r}
+library(rpart)
+set.seed(1234)
+regresor_decisiontree <- rpart(Y ~ X, data = datos, control = rpart.control(minsplit = 2))
+
+# Gráfico del árbol
+library(rpart.plot)
+rpart.plot(regresor_decisiontree, main = "Árbol de Decisión: Valor Medio de la Vivienda vs Edad")
+
+# Predicciones del modelo
+y_dt_predict <- predict(regresor_decisiontree, datos)
+cor(datos$Y, y_dt_predict)
+
+```
+
+## Bootstrap
+
+Se implementará la técnica de bootstrapping para obtener una estimación robusta de los coeficientes del modelo lineal.
+
+```{r}
+# Librería para bootstrapping
+library(boot)
+
+# Definición de función para obtener coeficientes
+fun_coeficientes <- function(data, index){
+  return(coef(lm(Y ~ X, data = data, subset = index)))
+}
+
+# Implementación de bootstrapping
+set.seed(123)
+resultados_boot <- boot(data = datos, statistic = fun_coeficientes, R = 1000)
+print(resultados_boot)
+
+# Visualización de la distribución de los coeficientes
+plot(resultados_boot)
+
+```
+
+### Explicación de las secciones:
+
+1.  **Introducción**: Breve resumen de lo que se hará.
+2.  **Carga de datos y selección de variables**: Se carga el archivo CSV y se seleccionan las variables que se analizarán.
+3.  **Gráficos descriptivos**: Histogramas y boxplots para observar la distribución de las variables.
+4.  **Modelo de regresión lineal**: Ajuste del modelo lineal y visualización del ajuste.
+5.  **Modelo polinomial**: Se ajusta un modelo polinomial para observar relaciones no lineales.
+6.  **Árbol de decisión**: Uso de un árbol de decisión para la regresión.
+7.  **Bootstrapping**: Validación cruzada mediante bootstrapping.
+8.  **Conclusión**: Resumen de los resultados.

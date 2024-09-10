@@ -2,8 +2,8 @@ datos1 <- read.csv("Boston.csv", head=T, sep=",")
 head(datos1)
 str(datos1)
 
-# y = medv <- dependiente
-# x = age
+# y = medv <- valor medio de la vivienda
+# x = age <- edad
 
 # as factor
 

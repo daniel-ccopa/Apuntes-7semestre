@@ -16,6 +16,6 @@ def burbuja(arr):
 
 burbuja(strings)
 
-print("Cadenas ordenadas:")
+print("\nCadenas ordenadas:")
 for string in strings:
     print(f'ORDEN: {string}')
