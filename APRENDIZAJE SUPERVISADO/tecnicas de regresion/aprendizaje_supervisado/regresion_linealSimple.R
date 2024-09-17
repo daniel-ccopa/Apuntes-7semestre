@@ -3,15 +3,15 @@ head(datos1)
 str(datos1)
 
 # y = medv <- valor medio de la vivienda
-# x = age <- edad
+# x = rm <- edad
 
 # as factor
 
 library(dplyr)
 
-datos <- select(datos1, age, medv)
+datos <- select(datos1, rm, medv)
 str(datos)
-datos <- rename(Y = medv , X = age,.data = datos)
+datos <- rename(Y = medv , X = rm,.data = datos)
 str(datos)
 
 boxplot(Y)
@@ -25,7 +25,7 @@ require(ggplot2)
 
 par(mfrow = c(1,2)) # dos figuras en una fila 
 
-hist(datos$X, breaks = 10, main = "Histograma X", xlab = "Age", 
+hist(datos$X, breaks = 10, main = "Histograma X", xlab = "rm", 
      border = "darkred") 
 hist(datos$Y, breaks = 10, main = "Histograma Y", xlab = "Medv", 
      border = "blue")
@@ -36,7 +36,7 @@ summary(datos)
 # diagrama de dispersión
 require(ggplot2)
 ggplot(data = datos, mapping = aes(x = X, y = Y)) + geom_point(color = "firebrick", size = 2) +
-  (labs(title = "Diagrama de dispersión", x="Age", y= "Medv"))+
+  (labs(title = "Diagrama de dispersión", x="rm", y= "Medv"))+
   theme_bw() +
   theme(plot.title = element_text(hjust =0.5))
 
@@ -57,7 +57,7 @@ confint(modelo_lineal)
 
 # Representación gráfica del modelo
 ggplot(data = datos, mapping = aes(x = X, y = Y)) + geom_point(size=3) +
-  (labs(title = "Diagrama de dispersión", x="Medv", y= "Age"))+
+  (labs(title = "Diagrama de dispersión", x="Medv", y= "rm"))+
   geom_smooth(method = "lm", se = FALSE, color = "firebrick") + theme_bw() +
   theme(plot.title = element_text(hjust = 0.2))
 
@@ -80,8 +80,8 @@ head(limites_intervalo, 3)
 
 
 plot(datos$X, datos$Y, col = "firebrick", pch = 19,
-     ylab = "medv", xlab = "age",
-     main = "age ~ medv")
+     ylab = "medv", xlab = "rm",
+     main = "rm ~ medv")
 abline(modelo_lineal, col = 1)
 lines(x = puntos, y = limites_intervalo[, 2], type = "l", col = 2, lty = 3)
 lines(x = puntos, y = limites_intervalo[, 3], type = "l", col = 3, lty = 3)

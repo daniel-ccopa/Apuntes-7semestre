@@ -27,7 +27,7 @@ head(datos1)
 
 ## Variables
 
-```{r setup, include=FALSE}
+```{r}
 
 datos <- select(datos1, age, medv)
 # Renombrar variables

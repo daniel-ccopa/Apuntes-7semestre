@@ -1,0 +1,42 @@
+INICIO
+
+    // Variables necesarias
+    paquete = "datos a enviar"
+    numeroSecuencia = 1
+    ackRecibido = FALSO
+    intentos = 0
+    tiempoEspera = TIEMPO_LIMITE // El tiempo límite para recibir el ACK
+    maxIntentos = 5 // Número máximo de reintentos
+    
+    // Bucle para enviar el paquete hasta recibir el ACK o alcanzar el máximo de intentos
+    MIENTRAS ackRecibido == FALSO Y intentos < maxIntentos HACER
+        
+        // Enviar el paquete con su número de secuencia
+        enviar_paquete(paquete, numeroSecuencia)
+        imprimir("Paquete con número de secuencia " + numeroSecuencia + " enviado.")
+        
+        // Iniciar temporizador
+        iniciar_temporizador(tiempoEspera)
+        
+        // Esperar respuesta del receptor
+        SI recibir_ACK(numeroSecuencia) ANTES de tiempoEspera TERMINAR ENTONCES
+            // ACK recibido correctamente
+            ackRecibido = VERDADERO
+            imprimir("ACK recibido para el paquete " + numeroSecuencia)
+        SINO
+            // No se recibió ACK a tiempo, incrementar el contador de intentos
+            intentos = intentos + 1
+            imprimir("No se recibió ACK. Reintentando... Intento: " + intentos)
+        FIN SI
+        
+        detener_temporizador()
+
+    FIN MIENTRAS
+
+    // Verificar el estado final
+    SI ackRecibido == FALSO ENTONCES
+        imprimir("No se pudo enviar el paquete después de " + intentos + " intentos.")
+    SINO
+        imprimir("Paquete enviado exitosamente y confirmado con ACK.")
+    
+FIN
