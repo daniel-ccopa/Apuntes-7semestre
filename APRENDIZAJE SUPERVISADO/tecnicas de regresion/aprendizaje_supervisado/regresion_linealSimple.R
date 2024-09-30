@@ -2,30 +2,49 @@ datos1 <- read.csv("Boston.csv", head=T, sep=",")
 head(datos1)
 str(datos1)
 
+<<<<<<< HEAD
 # y = medv <- dependiente
 # x = age
+=======
+# y = medv <- valor medio de la vivienda
+# x = rm <- edad
+>>>>>>> 0550c345a230ff006b37030f86678857dc482222
 
 # as factor
 
 library(dplyr)
 
+<<<<<<< HEAD
 datos <- select(datos1, age, medv)
 str(datos)
 datos <- rename(Y = medv , X = age,.data = datos)
+=======
+datos <- select(datos1, rm, medv)
+str(datos)
+datos <- rename(Y = medv , X = rm,.data = datos)
+>>>>>>> 0550c345a230ff006b37030f86678857dc482222
 str(datos)
 
 boxplot(Y)
 boxplot(X)
 
 
+<<<<<<< HEAD
 attach(datos)
+=======
+# attach(datos)
+>>>>>>> 0550c345a230ff006b37030f86678857dc482222
 # representación gráfica
 # histograma de frecuencias para las variables X e Y
 require(ggplot2) 
 
 par(mfrow = c(1,2)) # dos figuras en una fila 
 
+<<<<<<< HEAD
 hist(datos$X, breaks = 10, main = "Histograma X", xlab = "Age", 
+=======
+hist(datos$X, breaks = 10, main = "Histograma X", xlab = "rm", 
+>>>>>>> 0550c345a230ff006b37030f86678857dc482222
      border = "darkred") 
 hist(datos$Y, breaks = 10, main = "Histograma Y", xlab = "Medv", 
      border = "blue")
@@ -36,7 +55,11 @@ summary(datos)
 # diagrama de dispersión
 require(ggplot2)
 ggplot(data = datos, mapping = aes(x = X, y = Y)) + geom_point(color = "firebrick", size = 2) +
+<<<<<<< HEAD
   (labs(title = "Diagrama de dispersión", x="Age", y= "Medv"))+
+=======
+  (labs(title = "Diagrama de dispersión", x="rm", y= "Medv"))+
+>>>>>>> 0550c345a230ff006b37030f86678857dc482222
   theme_bw() +
   theme(plot.title = element_text(hjust =0.5))
 
@@ -57,7 +80,11 @@ confint(modelo_lineal)
 
 # Representación gráfica del modelo
 ggplot(data = datos, mapping = aes(x = X, y = Y)) + geom_point(size=3) +
+<<<<<<< HEAD
   (labs(title = "Diagrama de dispersión", x="Medv", y= "Age"))+
+=======
+  (labs(title = "Diagrama de dispersión", x="Medv", y= "rm"))+
+>>>>>>> 0550c345a230ff006b37030f86678857dc482222
   geom_smooth(method = "lm", se = FALSE, color = "firebrick") + theme_bw() +
   theme(plot.title = element_text(hjust = 0.2))
 
@@ -80,8 +107,13 @@ head(limites_intervalo, 3)
 
 
 plot(datos$X, datos$Y, col = "firebrick", pch = 19,
+<<<<<<< HEAD
      ylab = "medv", xlab = "age",
      main = "age ~ medv")
+=======
+     ylab = "medv", xlab = "rm",
+     main = "rm ~ medv")
+>>>>>>> 0550c345a230ff006b37030f86678857dc482222
 abline(modelo_lineal, col = 1)
 lines(x = puntos, y = limites_intervalo[, 2], type = "l", col = 2, lty = 3)
 lines(x = puntos, y = limites_intervalo[, 3], type = "l", col = 3, lty = 3)
@@ -132,3 +164,28 @@ ggplot(data = datos, aes(x = prediccion, y = residuos)) +
   theme(plot.title = element_text(hjust = 0.5), legend.position = "none")
 
 
+<<<<<<< HEAD
+=======
+# Distribución normal de los residuos:
+ggplot(data = datos, aes(x = residuos)) +
+  geom_histogram(aes(y = ..density..)) +
+  labs(title = "Histograma de los residuos") +
+  theme_bw() +
+  theme(plot.title = element_text(hjust = 0.5))
+
+
+# grafico de cuantiles
+qqnorm(modelo_lineal$residuals)
+qqline(modelo_lineal$residuals)
+
+
+# test de normalidad
+shapiro.test(modelo_lineal$residuals)
+
+
+# Kolmogorov test
+ks.test(modelo_lineal$residuals, "pnorm",
+        mean = mean(modelo_lineal$residuals),
+        sd = sd(modelo_lineal$residuals))
+
+>>>>>>> 0550c345a230ff006b37030f86678857dc482222

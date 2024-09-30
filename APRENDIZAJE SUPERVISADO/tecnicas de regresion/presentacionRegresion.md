@@ -1,0 +1,2 @@
+# Regresion lineal simple
+

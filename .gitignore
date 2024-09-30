@@ -2,7 +2,10 @@
 .Rhistory
 .RData
 .Ruserdata
+<<<<<<< HEAD
 .septimo
 .vscode
 septimo
 septimo.Rproj
+=======
+>>>>>>> 0550c345a230ff006b37030f86678857dc482222

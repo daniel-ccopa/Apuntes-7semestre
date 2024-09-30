@@ -49,8 +49,13 @@ server <- function(input, output) {
     
     # Calcular el modelo y generar los gráficos según la selección del usuario
     if (input$model_type == "Regresión Lineal") {
+<<<<<<< HEAD
       # Modelo de regresión lineal simple
       modelo_lineal <- lm(Y ~ X, data = datos)
+=======
+      # Cálculo del modelo de regresión lineal simple
+      modelo_lineal <- lm(Y ~ X, data=datos)
+>>>>>>> 0550c345a230ff006b37030f86678857dc482222
       
       output$summary_output <- renderPrint({
         summary(modelo_lineal)
@@ -59,11 +64,22 @@ server <- function(input, output) {
       output$plot <- renderPlot({
         ggplot(data = datos, mapping = aes(x = X, y = Y)) + 
           geom_point(size = 3, color = "firebrick") + 
+<<<<<<< HEAD
           geom_smooth(method = "lm", se = FALSE, color = "blue") +
           labs(title = "Regresión Lineal Simple", x = "Edad", y = "Valor Medio de Vivienda") +
           theme_bw()
       })
       
+=======
+          geom_smooth(method = "lm", color = "blue") + # Aquí mostramos las bandas de confianza
+          labs(title = "Regresión Lineal Simple con Bandas de Confianza", 
+               x = "Edad", 
+               y = "Valor Medio de Vivienda") +
+          theme_bw()
+      })
+      
+      
+>>>>>>> 0550c345a230ff006b37030f86678857dc482222
     } else if (input$model_type == "Regresión Polinomial") {
       # Modelo de regresión polinomial de segundo grado
       modelo_polinomial <- lm(Y ~ poly(X, 2), data = datos)
