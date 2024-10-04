@@ -8,6 +8,7 @@ output:
     toc_float: true
 ---
 
+
 # Introducción
 
 En este análisis se utilizarán los datos de Boston Housing para observar la relación entre la edad de los inmuebles (**age**) y el valor medio de la vivienda (**medv**). Se desarrollarán modelos de regresión lineal, polinomial, árboles de decisión y se emplearán técnicas avanzadas como el bootstrapping.
