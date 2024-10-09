@@ -8,31 +8,34 @@ def main():
     # Inserción de CSS para el fondo de pantalla
     page_bg_img = '''
     <style>
-    body {
-        background-image: url("https://www.example.com/your-background-image.jpg");
+    [data-testid="stAppViewContainer"] {
+        background: url("https://raw.githubusercontent.com/daniel-ccopa/Apuntes-7semestre/main/fondo.png");
         background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
     }
     </style>
     '''
     st.markdown(page_bg_img, unsafe_allow_html=True)
     
-    # Logo de la universidad (cambia la URL por la de tu logo)
-    st.image("https://www.example.com/your-logo.png", width=150)
+    # Logo de la universidad en la barra lateral
+    st.sidebar.image("https://raw.githubusercontent.com/daniel-ccopa/Apuntes-7semestre/main/logo.png", use_column_width=True)
     
     # Título y detalles
     st.title("📋 Ordenador de Cadenas y Números")
     st.markdown("""
     **Universidad Nacional de Ingeniería**
 
-    **Facultad de Ingeniería Estadistica e Informatica**
+    **Facultad de Ingeniería Estadística e Informática**
 
-    **Curso:** Ingenieria de Software I
+    **Curso:** Ingeniería de Software I
 
-    **Semestre:** SEPTIMO - 2024-II
+    **Semestre:** Séptimo - 2024-II
 
-    **Autor:** CRISTIAN DANIEL CCOPA ACERO
+    **Autor:** Cristian Daniel Ccopa Acero
 
-    **Docente:** Ing. JUAN REYNALDO PAREDES QUISPE
+    **Docente:** Ing. Juan Reynaldo Paredes Quispe
 
     ---
     """)
