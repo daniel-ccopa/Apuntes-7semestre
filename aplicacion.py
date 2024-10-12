@@ -9,7 +9,7 @@ def main():
     page_bg_img = '''
     <style>
     [data-testid="stAppViewContainer"] {
-        background: url("https://raw.githubusercontent.com/daniel-ccopa/Apuntes-7semestre/main/fondo.png");
+        background: url("https://raw.githubusercontent.com/daniel-ccopa/Apuntes-7semestre/refs/heads/main/fondo.png");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
