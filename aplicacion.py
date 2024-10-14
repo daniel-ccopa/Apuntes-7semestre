@@ -20,7 +20,7 @@ def main():
     st.markdown(page_bg_img, unsafe_allow_html=True)
     
     # Logo de la universidad en la barra lateral
-    st.sidebar.image("https://raw.githubusercontent.com/daniel-ccopa/Apuntes-7semestre/main/finesi.png", use_column_width=True)
+    st.sidebar.image("https://raw.githubusercontent.com/daniel-ccopa/Apuntes-7semestre/refs/heads/main/finesi.png", use_column_width=True)
     
     # Título y detalles
     st.title("📋 Ordenador de Cadenas y Números")
