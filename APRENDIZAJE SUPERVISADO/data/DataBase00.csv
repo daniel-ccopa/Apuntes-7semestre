@@ -1,0 +1,247 @@
+﻿Nombre;Apellido;Edad;DNI;Fecha de nacimiento;Lugar de nacimiento;Empleado Público;Estado Civil;Condición en SISFO;Tiene hijos;Número de celular;Cantidad de hijos
+Carlos;Lopez;32;12345678;10/5/1989;Cayma;No;Casado;No Pobre;Sí;987654321;2
+Maria;Garcia;45;23456789;22/11/1978;Miraflores;Sí;Soltera;Pobre;No;912345678;0
+Luis;Ramirez;28;34567890;15/7/1995;Yanahuara;Sí;Casado;Extrema Pobreza;Sí;876543219;1
+Ana;Torres;39;45678901;28/2/1984;Socabaya;No;Divorciada;No Pobre;Sí;765432198;3
+Pedro;Fernandez;50;56789012;3/9/1973;Sachaca;No;Casado;No Pobre;Sí;654321987;2
+Laura;Mendoza;35;67890123;17/12/1988;Tiabaya;Sí;Viuda;No Pobre;No;543219876;0
+Juan;Perez;41;78901234;25/6/1982;Uchumayo;Sí;Casado;Pobre;Sí;432198765;2
+Silvia;Rojas;27;89012345;9/3/1996;San Juan de Siguas;No;Soltera;Extrema Pobreza;No;321987654;0
+Diego;Vargas;33;90123456;6/8/1989;Puno;No;Casado;Pobre;Sí;219876543;2
+Carla;Santos;29;1234567;31/1/1992;Melgar;No;Soltera;Pobre;Sí;198765432;1
+Fernando;Morales;47;11223344;14/4/1976;Majes;Sí;Viudo;No Pobre;Sí;987654321;2
+Marcela;Chavez;31;22334455;8/7/1990;Lampa;No;Casada;Pobre;No;876543210;0
+Jorge;Castro;37;33445566;21/10/1986;Ayaviri;Sí;Soltero;No Pobre;No;765432109;0
+Elena;Gomez;42;44556677;3/12/1979;Chucuito;No;Casada;No Pobre;Sí;654321098;2
+Ricardo;Ortega;26;55667788;16/2/1997;Acora;Sí;Soltero;Extrema Pobreza;No;543210987;0
+Sandra;Rivera;40;66778899;29/5/1983;Tacna;Sí;Casada;Extrema Pobreza;Sí;432109876;3
+Pablo;Morales;36;77889900;12/9/1987;Miraflores;No;Casado;No Pobre;Sí;321098765;2
+Monica;Silva;43;88990011;2/11/1978;Juli;No;Soltera;No Pobre;No;210987654;0
+Roberto;Cortez;30;99001122;15/6/1991;Macusani;Sí;Casado;Extrema Pobreza;Sí;109876543;1
+Julia;Reyes;34;112233;28/3/1989;Ilave;Sí;Soltera;Pobre;Sí;98765432;2
+Angelo;Cruz;29;11223344;20/7/1992;Arequipa;Sí;Soltero;No Pobre;No;987654321;0
+Diana;Flores;38;22334455;13/11/1983;Puno;Sí;Casada;Extrema Pobreza;Sí;876543210;2
+Martin;Quispe;35;33445566;17/6/1986;Yanahuara;No;Soltero;Pobre;No;765432109;0
+Paola;Gonzales;31;44556677;8/2/1990;Arequipa;Sí;Casada;No Pobre;No;654321098;0
+Gustavo;Rodriguez;47;55667788;26/4/1976;Cerro Colorado;No;Viudo;Extrema Pobreza;No;543210987;0
+Rosa;Luna;42;66778899;19/7/1979;Arequipa;No;Casada;No Pobre;Sí;432109876;3
+Miguel;Tapia;39;77889900;9/12/1982;Arequipa;Sí;Soltero;Pobre;No;321098765;0
+Alicia;Campos;33;88990011;1/2/1989;Arequipa;Sí;Soltera;No Pobre;No;210987654;0
+David;Rivero;36;99001122;24/5/1986;Arequipa;No;Casado;No Pobre;Sí;109876543;2
+Marisol;Paredes;26;112233;13/9/1997;Arequipa;No;Soltera;Extrema Pobreza;No;98765432;0
+Javier;Torrico;45;11223344;30/8/1978;Arequipa;Sí;Soltero;No Pobre;No;987654321;0
+Gabriela;Lopez;41;22334455;16/1/1982;Arequipa;Sí;Casada;Pobre;No;876543210;0
+Hugo;Vargas;29;33445566;25/3/1992;Arequipa;No;Soltero;No Pobre;No;765432109;0
+Ingrid;Valdez;27;44556677;11/6/1994;Arequipa;Sí;Soltera;Extrema Pobreza;No;654321098;0
+Luisa;Rodriguez;31;55667788;28/9/1990;Arequipa;Sí;Casada;No Pobre;Sí;543210987;1
+Cesar;Arce;37;66778899;2/11/1985;Arequipa;Sí;Soltero;Extrema Pobreza;Sí;432109876;3
+Rocio;Santos;33;77889900;12/8/1989;Arequipa;No;Soltera;Pobre;Sí;321098765;2
+Carmen;Rojas;35;12345678;18/2/1988;Arequipa;No;Casada;Pobre;No;987654321;0
+Hector;Solis;42;23456789;23/7/1981;Puno;Sí;Divorciado;No Pobre;Sí;912345678;2
+Mariana;Gutierrez;28;34567890;14/4/1994;Arequipa;No;Soltera;No Pobre;No;876543219;0
+Raul;Alvarez;37;45678901;9/1/1985;Socabaya;Sí;Casado;Pobre;Sí;765432198;3
+Eva;Lopez;31;56789012;7/8/1991;Arequipa;Sí;Soltera;No Pobre;No;654321987;0
+Mario;Rodriguez;46;67890123;28/12/1977;Yanahuara;Sí;Casado;No Pobre;Sí;543219876;2
+Ana;Mendoza;39;78901234;19/6/1984;Miraflores;No;Casada;Pobre;Sí;432198765;3
+Renato;Garcia;27;89012345;22/10/1995;Arequipa;Sí;Soltero;Extrema Pobreza;Sí;321987654;1
+Laura;Flores;33;90123456;27/4/1989;Cerro Colorado;Sí;Soltera;Pobre;Sí;219876543;2
+Javier;Paredes;29;1234567;8/9/1993;Arequipa;Sí;Soltero;No Pobre;No;198765432;0
+Karina;Quispe;46;11223344;1/11/1977;Arequipa;No;Casada;No Pobre;Sí;987654321;2
+Jose;Gomez;41;22334455;16/1/1982;Arequipa;Sí;Casado;Extrema Pobreza;Sí;876543210;3
+Rosa;Vargas;38;33445566;25/8/1985;Arequipa;Sí;Viuda;No Pobre;No;765432109;0
+Luis;Torres;44;44556677;10/6/1978;Arequipa;Sí;Casado;No Pobre;No;654321098;0
+Patricia;Castro;26;55667788;19/3/1996;Arequipa;Sí;Soltera;Extrema Pobreza;No;543210987;0
+Fernando;Rodriguez;40;66778899;2/9/1983;Arequipa;No;Casado;Extrema Pobreza;Sí;432109876;3
+Martha;Santos;35;77889900;15/11/1987;Arequipa;Sí;Soltera;Pobre;No;321098765;0
+Oscar;Morales;43;88990011;3/12/1979;Arequipa;No;Casado;No Pobre;Sí;210987654;2
+Carolina;Perez;36;99001122;26/5/1986;Arequipa;No;Soltera;Pobre;Sí;109876543;1
+Luisa;Mendoza;30;112233;7/3/1992;Arequipa;Sí;Soltera;Extrema Pobreza;No;98765432;0
+Luis;Fernandez;29;11223344;5/1/1993;Arequipa;Sí;Soltero;Pobre;No;987654321;0
+Claudia;Ortega;39;22334455;17/4/1983;Arequipa;Sí;Casada;No Pobre;Sí;876543210;2
+Carlos;Torres;36;33445566;30/7/1986;Arequipa;No;Soltero;Extrema Pobreza;No;765432109;0
+Gloria;Chavez;45;44556677;14/3/1978;Arequipa;Sí;Viuda;Pobre;Sí;654321098;3
+Daniel;Rojas;33;55667788;28/10/1989;Arequipa;No;Soltero;No Pobre;No;543210987;0
+Pamela;Cruz;41;66778899;12/9/1982;Arequipa;No;Casada;No Pobre;No;432109876;0
+Andres;Santos;37;77889900;9/5/1985;Arequipa;No;Soltero;No Pobre;No;321098765;0
+Patricia;Silva;32;88990011;22/2/1990;Arequipa;No;Casada;Pobre;Sí;210987654;1
+Cesar;Rodriguez;29;99001122;25/6/1993;Arequipa;No;Soltero;Extrema Pobreza;Sí;109876543;2
+Paola;Flores;34;112233;28/8/1988;Arequipa;No;Soltera;Pobre;No;98765432;0
+Diego;Morales;28;11223344;6/7/1994;Arequipa;No;Soltero;No Pobre;No;987654321;0
+Carmen;Mendoza;42;22334455;13/12/1979;Arequipa;No;Casada;No Pobre;Sí;876543210;3
+Hugo;Paredes;39;33445566;21/5/1983;Arequipa;No;Soltero;Extrema Pobreza;No;765432109;0
+Rocio;Ortega;37;44556677;16/8/1985;Arequipa;No;Casada;Pobre;Sí;654321098;2
+Eduardo;Silva;31;55667788;6/2/1991;Arequipa;Sí;Soltero;Extrema Pobreza;No;543210987;0
+Lorena;Santos;29;66778899;19/5/1993;Arequipa;Sí;Soltera;Extrema Pobreza;No;432109876;0
+Raul;Torres;36;77889900;7/10/1986;Arequipa;No;Casado;Pobre;Sí;321098765;1
+Cecilia;Gomez;34;88990011;30/1/1989;Arequipa;No;Soltera;No Pobre;No;210987654;0
+Jorge;Rodriguez;43;99001122;24/11/1979;Arequipa;No;Divorciado;No Pobre;Sí;109876543;3
+Patricia;Mendoza;32;112233;21/7/1990;Arequipa;Sí;Soltera;Extrema Pobreza;No;98765432;0
+Luis;Rojas;45;11223344;4/9/1978;Arequipa;No;Casado;No Pobre;Sí;987654321;2
+Gloria;Vargas;38;22334455;19/12/1985;Arequipa;Sí;Casada;Extrema Pobreza;Sí;876543210;3
+Oscar;Torres;46;33445566;9/8/1977;Arequipa;Sí;Viuda;No Pobre;No;765432109;0
+Eduardo;Lopez;42;44556677;2/10/1981;Arequipa;Sí;Casado;No Pobre;Sí;654321098;2
+Lorena;Flores;30;55667788;18/2/1992;Arequipa;No;Soltera;Pobre;No;543210987;0
+Carla;Castro;39;66778899;13/11/1984;Arequipa;No;Casada;Extrema Pobreza;Sí;432109876;3
+Jose;Santos;35;77889900;16/5/1988;Arequipa;Sí;Soltera;No Pobre;No;321098765;0
+Cesar;Garcia;44;88990011;11/7/1979;Arequipa;Sí;Casado;Pobre;No;210987654;0
+Patricia;Paredes;38;99001122;4/4/1985;Arequipa;No;Casada;Extrema Pobreza;Sí;109876543;3
+Laura;Mendoza;37;112233;15/8/1986;Arequipa;No;Soltera;Pobre;Sí;98765432;2
+Raul;Rojas;31;11223344;10/11/1992;Arequipa;No;Soltero;No Pobre;No;987654321;0
+Gloria;Vargas;40;22334455;27/10/1983;Arequipa;No;Casada;Extrema Pobreza;Sí;876543210;2
+Hector;Castro;36;33445566;30/3/1987;Arequipa;Sí;Soltero;Extrema Pobreza;No;765432109;0
+Renata;Gomez;45;44556677;22/1/1978;Arequipa;No;Casada;No Pobre;No;654321098;0
+Claudia;Rodriguez;33;55667788;6/6/1989;Arequipa;Sí;Soltera;No Pobre;No;543210987;0
+Fernando;Rojas;41;66778899;29/7/1982;Arequipa;Sí;Casado;Extrema Pobreza;Sí;432109876;3
+Karla;Perez;37;77889900;10/12/1985;Arequipa;No;Soltera;No Pobre;No;321098765;0
+Juan;Mendoza;30;88990011;13/10/1992;Arequipa;Sí;Casado;Pobre;Sí;210987654;1
+Ana;Torres;28;99001122;16/3/1994;Arequipa;No;Soltera;Extrema Pobreza;No;109876543;0
+Luis;Gutierrez;44;112233;23/11/1978;Arequipa;Sí;Casado;No Pobre;Sí;98765432;2
+Gloria;Campos;38;11223344;19/3/1983;Arequipa;No;Soltera;No Pobre;No;987654321;0
+Karina;Fernandez;46;22334455;12/9/1977;Arequipa;Sí;Viuda;No Pobre;No;876543210;0
+Hector;Santos;36;33445566;25/8/1987;Arequipa;No;Soltero;Pobre;No;765432109;0
+Patricia;Rojas;41;44556677;10/12/1982;Arequipa;No;Casada;Extrema Pobreza;Sí;654321098;3
+Ricardo;Torres;35;55667788;3/6/1988;Arequipa;No;Casado;No Pobre;No;543210987;0
+Andrea;Paredes;32;66778899;17/4/1990;Arequipa;Sí;Soltera;Pobre;Sí;432109876;2
+Elena;Lopez;39;77889900;13/3/1984;Arequipa;Sí;Casada;Extrema Pobreza;Sí;321098765;2
+Javier;Silva;44;88990011;17/10/1979;Arequipa;Sí;Divorciada;No Pobre;No;210987654;0
+Carmen;Rojas;37;99001122;10/7/1985;Arequipa;Sí;Casada;No Pobre;No;109876543;0
+Rosa;Flores;34;112233;4/2/1988;Arequipa;Sí;Soltera;Extrema Pobreza;No;98765432;0
+Claudia;Morales;46;11223344;15/3/1977;Arequipa;Sí;Viuda;No Pobre;Sí;987654321;2
+Fernando;Vargas;42;22334455;20/8/1981;Arequipa;No;Divorciado;No Pobre;Sí;876543210;3
+Ricardo;Torres;38;33445566;23/11/1984;Arequipa;No;Soltero;Extrema Pobreza;Sí;765432109;3
+Cecilia;Rodriguez;45;44556677;26/9/1978;Arequipa;Sí;Viuda;Pobre;No;654321098;0
+Patricia;Gomez;33;55667788;6/12/1989;Arequipa;Sí;Casada;No Pobre;No;543210987;0
+Carlos;Rojas;39;66778899;9/1/1984;Arequipa;Sí;Soltero;Extrema Pobreza;No;432109876;0
+Gloria;Paredes;37;77889900;17/11/1986;Arequipa;Sí;Casada;Pobre;Sí;321098765;2
+Rocio;Ortega;30;88990011;28/3/1992;Arequipa;Sí;Soltera;No Pobre;No;210987654;0
+Luis;Mendoza;29;99001122;10/1/1993;Arequipa;No;Soltero;Extrema Pobreza;No;109876543;0
+Karina;Garcia;45;112233;4/5/1978;Arequipa;No;Casada;Pobre;No;98765432;0
+Luisa;Rodriguez;42;11223344;19/4/1981;Arequipa;No;Divorciada;No Pobre;Sí;987654321;2
+Carlos;Torres;39;22334455;12/7/1984;Arequipa;Sí;Soltero;Extrema Pobreza;No;876543210;0
+Raul;Rojas;30;33445566;14/10/1991;Arequipa;No;Soltero;Pobre;No;765432109;0
+Gloria;Vargas;46;44556677;29/8/1977;Arequipa;Sí;Viuda;No Pobre;No;654321098;0
+Oscar;Castro;41;55667788;11/9/1982;Arequipa;No;Casado;No Pobre;No;543210987;0
+Renata;Mendoza;38;66778899;20/7/1985;Arequipa;Sí;Soltera;Extrema Pobreza;No;432109876;0
+Claudia;Flores;32;77889900;28/2/1989;Arequipa;No;Soltera;No Pobre;No;321098765;0
+Jorge;Rojas;44;88990011;3/6/1978;Arequipa;Sí;Divorciado;No Pobre;No;210987654;0
+Gloria;Torres;37;99001122;14/5/1985;Arequipa;Sí;Soltera;Extrema Pobreza;Sí;109876543;1
+Laura;Flores;34;112233;17/3/1988;Arequipa;Sí;Soltera;Pobre;No;98765432;0
+Cesar;Rodriguez;46;11223344;10/9/1977;Arequipa;Sí;Casado;Extrema Pobreza;Sí;987654321;2
+Patricia;Rojas;40;22334455;23/8/1983;Arequipa;No;Casada;Extrema Pobreza;Sí;876543210;2
+Renato;Santos;36;33445566;26/11/1987;Arequipa;Sí;Soltero;Extrema Pobreza;No;765432109;0
+Rosa;Torres;41;44556677;29/12/1982;Arequipa;Sí;Casada;No Pobre;No;654321098;0
+Gloria;Paredes;35;55667788;5/9/1988;Arequipa;Sí;Casada;No Pobre;No;543210987;0
+Carlos;Rojas;32;66778899;18/4/1990;Arequipa;No;Soltero;Extrema Pobreza;No;432109876;0
+Patricia;Vargas;40;77889900;31/5/1983;Arequipa;Sí;Casada;Pobre;No;321098765;0
+Luis;Rodriguez;38;88990011;14/11/1986;Arequipa;Sí;Casado;Extrema Pobreza;Sí;210987654;3
+Sandra;Flores;32;99001122;22/5/1991;Arequipa;Sí;Soltera;Pobre;Sí;109876543;2
+Andres;Mendoza;46;112233;17/2/1977;Arequipa;No;Casado;Extrema Pobreza;Sí;98765432;3
+Luisa;Gomez;41;11223344;13/9/1982;Arequipa;Sí;Casada;No Pobre;Sí;987654321;2
+Ricardo;Silva;38;22334455;9/10/1985;Arequipa;Sí;Casado;No Pobre;No;876543210;0
+Elena;Torres;34;33445566;24/3/1988;Arequipa;No;Soltera;No Pobre;No;765432109;0
+Carlos;Rojas;46;44556677;19/5/1977;Arequipa;Sí;Viudo;No Pobre;No;654321098;0
+Gloria;Vargas;40;55667788;27/1/1983;Arequipa;No;Casada;Extrema Pobreza;No;543210987;0
+Renato;Flores;35;66778899;18/10/1987;Arequipa;No;Soltera;No Pobre;No;432109876;0
+Rosa;Rojas;33;77889900;8/6/1989;Arequipa;No;Soltera;Extrema Pobreza;No;321098765;0
+Andres;Torres;42;88990011;11/5/1981;Arequipa;Sí;Casado;Pobre;Sí;210987654;2
+Fernando;Rojas;39;99001122;25/8/1984;Arequipa;Sí;Casado;No Pobre;No;109876543;0
+Sandra;Garcia;37;112233;30/12/1986;Arequipa;Sí;Soltera;No Pobre;No;98765432;0
+Eva;Torres;44;11223344;6/7/1979;Arequipa;Sí;Divorciada;Pobre;No;987654321;0
+Carlos;Rojas;40;22334455;10/9/1983;Arequipa;No;Casado;No Pobre;No;876543210;0
+Patricia;Rodriguez;38;33445566;23/7/1985;Arequipa;Sí;Soltera;Extrema Pobreza;No;765432109;0
+Gloria;Flores;33;44556677;27/5/1989;Arequipa;Sí;Casada;Extrema Pobreza;Sí;654321098;1
+Renato;Santos;46;55667788;11/12/1977;Arequipa;Sí;Casado;Extrema Pobreza;Sí;543210987;3
+Carlos;Torres;39;66778899;14/4/1984;Arequipa;No;Soltero;No Pobre;No;432109876;0
+Luis;Rojas;35;77889900;17/7/1988;Arequipa;No;Soltero;No Pobre;No;321098765;0
+Gloria;Vargas;42;88990011;30/9/1981;Arequipa;No;Casada;Pobre;No;210987654;0
+Ricardo;Paredes;40;99001122;23/11/1983;Arequipa;No;Casado;Extrema Pobreza;Sí;109876543;3
+Renata;Rodriguez;35;112233;15/6/1988;Arequipa;Sí;Casada;Pobre;Sí;98765432;2
+Claudia;Santos;43;11223344;10/2/1978;Arequipa;Sí;Casada;No Pobre;No;987654321;0
+Carlos;Torres;39;22334455;24/6/1984;Arequipa;Sí;Casado;No Pobre;No;876543210;0
+Patricia;Paredes;36;33445566;12/9/1987;Arequipa;No;Viuda;No Pobre;No;765432109;0
+Gloria;Rojas;40;44556677;14/8/1983;Arequipa;Sí;Casada;Extrema Pobreza;Sí;654321098;3
+Fernando;Vargas;37;55667788;5/10/1986;Arequipa;No;Soltero;Extrema Pobreza;No;543210987;0
+Rosa;Torres;43;66778899;28/2/1978;Arequipa;Sí;Casada;No Pobre;No;432109876;0
+Renato;Rojas;40;77889900;23/4/1983;Arequipa;No;Casado;No Pobre;No;321098765;0
+Gloria;Vargas;36;88990011;15/8/1986;Arequipa;Sí;Soltera;Extrema Pobreza;No;210987654;0
+Carlos;Torres;33;99001122;28/10/1989;Arequipa;Sí;Soltero;Extrema Pobreza;No;109876543;0
+Luisa;Flores;44;112233;3/12/1977;Arequipa;No;Divorciada;No Pobre;No;98765432;0
+Patricia;Santos;42;11223344;15/9/1981;Arequipa;Sí;Casada;Pobre;Sí;987654321;2
+Gloria;Paredes;37;22334455;8/11/1986;Arequipa;Sí;Casada;No Pobre;No;876543210;0
+Carlos;Rojas;40;33445566;17/2/1983;Arequipa;Sí;Casado;Extrema Pobreza;Sí;765432109;3
+Renata;Gomez;36;44556677;22/6/1987;Arequipa;No;Soltera;No Pobre;No;654321098;0
+Gloria;Torres;42;55667788;29/5/1981;Arequipa;Sí;Casada;Pobre;No;543210987;0
+Carlos;Rojas;37;66778899;8/3/1984;Arequipa;Sí;Soltero;Extrema Pobreza;No;432109876;0
+Patricia;Vargas;44;77889900;3/7/1979;Arequipa;No;Viuda;No Pobre;No;321098765;0
+Fernando;Flores;41;88990011;26/9/1982;Arequipa;No;Casado;Extrema Pobreza;Sí;210987654;3
+Renata;Santos;36;99001122;9/2/1987;Arequipa;No;Soltera;Pobre;Sí;109876543;1
+Carlos;Rojas;34;112233;1/10/1989;Arequipa;Sí;Soltero;Extrema Pobreza;No;98765432;0
+Gloria;Vargas;42;11223344;15/4/1981;Arequipa;Sí;Casada;Extrema Pobreza;Sí;987654321;2
+Ricardo;Torres;38;22334455;19/9/1985;Arequipa;No;Casado;No Pobre;No;876543210;0
+Renato;Rojas;35;33445566;22/6/1988;Arequipa;No;Soltero;No Pobre;No;765432109;0
+Gloria;Paredes;41;44556677;12/10/1982;Arequipa;No;Casada;Extrema Pobreza;Sí;654321098;2
+Carlos;Torres;38;55667788;25/9/1985;Arequipa;No;Casado;No Pobre;No;543210987;0
+Patricia;Santos;35;66778899;16/8/1988;Arequipa;Sí;Casada;No Pobre;No;432109876;0
+Gloria;Vargas;41;77889900;19/12/1982;Arequipa;No;Casada;Extrema Pobreza;Sí;321098765;2
+Renata;Flores;38;88990011;22/10/1985;Arequipa;No;Soltera;Extrema Pobreza;No;210987654;0
+Carlos;Rojas;36;99001122;15/12/1987;Arequipa;Sí;Soltero;Extrema Pobreza;No;109876543;0
+Patricia;Paredes;40;112233;28/3/1983;Arequipa;Sí;Casada;Extrema Pobreza;Sí;98765432;2
+Ricardo;Torres;37;11223344;21/5/1986;Arequipa;Sí;Casado;No Pobre;No;987654321;0
+Renata;Rojas;41;22334455;14/8/1982;Arequipa;No;Casada;No Pobre;No;876543210;0
+Carlos;Torres;38;33445566;27/11/1985;Arequipa;No;Soltera;Extrema Pobreza;No;765432109;0
+Gloria;Santos;36;44556677;30/5/1987;Arequipa;No;Casada;Extrema Pobreza;No;654321098;0
+Renato;Flores;40;55667788;23/9/1983;Arequipa;No;Casado;Pobre;No;543210987;0
+Carlos;Rojas;37;66778899;12/5/1984;Arequipa;Sí;Soltero;No Pobre;No;432109876;0
+Patricia;Vargas;41;77889900;5/3/1982;Arequipa;Sí;Casada;No Pobre;No;321098765;0
+Gloria;Torres;38;88990011;28/7/1985;Arequipa;Sí;Viuda;Extrema Pobreza;No;210987654;0
+Renata;Rojas;36;99001122;1/6/1987;Arequipa;No;Soltera;Extrema Pobreza;No;109876543;0
+Carlos;Torres;42;112233;14/9/1981;Arequipa;Sí;Casado;Extrema Pobreza;Sí;98765432;1
+Gloria;Vargas;40;11223344;27/7/1983;Arequipa;Sí;Casada;Pobre;No;987654321;0
+Patricia;Paredes;37;22334455;10/5/1986;Arequipa;Sí;Soltera;Extrema Pobreza;No;876543210;0
+Carlos;Rojas;42;33445566;23/6/1981;Arequipa;Sí;Casada;No Pobre;No;765432109;0
+Renato;Flores;38;44556677;26/1/1985;Arequipa;No;Soltera;Extrema Pobreza;No;654321098;0
+Gloria;Santos;41;55667788;20/5/1982;Arequipa;No;Casada;Extrema Pobreza;Sí;543210987;2
+Carlos;Rojas;37;66778899;13/10/1984;Arequipa;Sí;Soltero;Extrema Pobreza;No;432109876;0
+Patricia;Vargas;43;77889900;16/9/1978;Arequipa;Sí;Casada;Extrema Pobreza;Sí;321098765;3
+Gloria;Torres;40;88990011;29/3/1983;Arequipa;Sí;Casada;No Pobre;No;210987654;0
+Renata;Rojas;38;99001122;11/2/1985;Arequipa;Sí;Soltera;Extrema Pobreza;No;109876543;0
+Carlos;Torres;36;112233;18/4/1987;Arequipa;Sí;Soltero;Extrema Pobreza;No;98765432;0
+Patricia;Paredes;41;11223344;21/1/1982;Arequipa;Sí;Casada;Pobre;Sí;987654321;3
+Gloria;Santos;39;22334455;14/6/1984;Arequipa;No;Casada;Extrema Pobreza;No;876543210;0
+Renata;Flores;37;33445566;12/11/1986;Arequipa;Sí;Soltera;No Pobre;No;765432109;0
+Carlos;Rojas;42;44556677;15/12/1981;Arequipa;No;Casado;Extrema Pobreza;No;654321098;0
+Patricia;Vargas;40;55667788;28/9/1983;Arequipa;No;Casada;No Pobre;No;543210987;0
+Gloria;Torres;38;66778899;11/7/1985;Arequipa;No;Soltera;Pobre;No;432109876;0
+Renato;Rojas;43;77889900;14/3/1978;Arequipa;No;Casado;No Pobre;No;321098765;0
+Carlos;Torres;41;88990011;27/5/1982;Arequipa;No;Casada;Extrema Pobreza;Sí;210987654;2
+Patricia;Paredes;39;99001122;1/11/1984;Arequipa;No;Casada;Pobre;No;109876543;0
+Gloria;Santos;38;112233;20/6/1985;Arequipa;Sí;Soltera;Extrema Pobreza;No;98765432;0
+Renata;Flores;43;11223344;23/9/1978;Arequipa;Sí;Divorciada;Extrema Pobreza;Sí;987654321;3
+Carlos;Rojas;41;22334455;26/2/1982;Arequipa;Sí;Casada;No Pobre;No;876543210;0
+Patricia;Vargas;39;33445566;29/12/1984;Arequipa;Sí;Soltera;Pobre;Sí;765432109;2
+Gloria;Torres;38;44556677;19/10/1985;Arequipa;No;Casada;Extrema Pobreza;No;654321098;0
+Renata;Rojas;43;55667788;24/1/1978;Arequipa;Sí;Casada;Pobre;No;543210987;0
+Carlos;Torres;41;66778899;27/6/1982;Arequipa;No;Casado;Extrema Pobreza;No;432109876;0
+Patricia;Paredes;39;77889900;1/11/1984;Arequipa;Sí;Soltera;No Pobre;No;321098765;0
+Gloria;Santos;38;88990011;12/9/1985;Arequipa;No;Soltera;Extrema Pobreza;No;210987654;0
+Renato;Flores;43;99001122;25/4/1978;Arequipa;No;Casado;Pobre;Sí;109876543;1
+Carlos;Rojas;41;112233;28/7/1982;Arequipa;Sí;Casado;Extrema Pobreza;Sí;98765432;3
+Patricia;Paredes;39;11223344;1/11/1984;Arequipa;Sí;Soltera;No Pobre;No;987654321;0
+Gloria;Santos;38;22334455;12/9/1985;Arequipa;No;Soltera;Extrema Pobreza;No;876543210;0
+Renato;Flores;43;33445566;25/4/1978;Arequipa;No;Casado;Pobre;Sí;765432109;1
+Carlos;Rojas;41;44556677;28/7/1982;Arequipa;No;Casado;Extrema Pobreza;Sí;654321098;3
+Patricia;Paredes;39;55667788;1/11/1984;Arequipa;No;Soltera;No Pobre;No;543210987;0
+Gloria;Santos;38;66778899;12/9/1985;Arequipa;Sí;Soltera;Extrema Pobreza;No;432109876;0
+Renato;Flores;43;77889900;25/4/1978;Arequipa;No;Casado;Pobre;Sí;321098765;1
+Carlos;Rojas;41;88990011;28/7/1982;Arequipa;Sí;Casado;Extrema Pobreza;Sí;210987654;3
+Patricia;Paredes;39;99001122;1/11/1984;Arequipa;Sí;Soltera;No Pobre;No;109876543;0
+Gloria;Santos;38;112233;12/9/1985;Arequipa;No;Soltera;Extrema Pobreza;No;98765432;0
+Renato;Flores;43;11223344;25/4/1978;Arequipa;No;Casado;Pobre;Sí;987654321;1
+Carlos;Rojas;41;22334455;28/7/1982;Arequipa;No;Casado;Extrema Pobreza;Sí;876543210;3
+Patricia;Paredes;39;33445566;1/11/1984;Arequipa;No;Soltera;No Pobre;No;765432109;0
+Gloria;Santos;38;44556677;12/9/1985;Arequipa;No;Soltera;Extrema Pobreza;No;654321098;0
+Renato;Flores;43;55667788;25/4/1978;Arequipa;Sí;Casado;Pobre;Sí;543210987;1
+Carlos;Rojas;41;66778899;28/7/1982;Arequipa;Sí;Casado;Extrema Pobreza;Sí;432109876;3
+Patricia;Paredes;39;77889900;1/11/1984;Arequipa;No;Soltera;No Pobre;No;321098765;0
+Gloria;Santos;38;88990011;12/9/1985;Arequipa;No;Soltera;Extrema Pobreza;No;210987654;0
+Renato;Flores;43;99001122;25/4/1978;Arequipa;No;Casado;Pobre;Sí;109876543;1

@@ -1,0 +1,247 @@
+Nombre,Apellido,Edad,DNI,Fecha de nacimiento,Lugar de nacimiento,Profesión,Estado Civil,Condición en SISFO,Tiene hijos,Número de celular,Cantidad de hijos
+Carlos,Lopez,32,12345678,1989-05-10,Cayma,Ingeniero Civil,Casado,No Pobre,Sí,987654321,2
+Maria,Garcia,45,23456789,1978-11-22,Miraflores,Profesora,Soltera,Pobre,No,912345678,0
+Luis,Ramirez,28,34567890,1995-07-15,Yanahuara,Agrónomo,Casado,Extrema Pobreza,Sí,876543219,1
+Ana,Torres,39,45678901,1984-02-28,Socabaya,Abogada,Divorciada,No Pobre,Sí,765432198,3
+Pedro,Fernandez,50,56789012,1973-09-03,Sachaca,Médico,Casado,No Pobre,Sí,654321987,2
+Laura,Mendoza,35,67890123,1988-12-17,Tiabaya,Arquitecta,Viuda,No Pobre,No,543219876,0
+Juan,Perez,41,78901234,1982-06-25,Uchumayo,Ingeniero Electrónico,Casado,Pobre,Sí,432198765,2
+Silvia,Rojas,27,89012345,1996-03-09,San Juan de Siguas,Enfermera,Soltera,Extrema Pobreza,No,321987654,0
+Diego,Vargas,33,90123456,1989-08-06,Puno,Economista,Casado,Pobre,Sí,219876543,2
+Carla,Santos,29,01234567,1992-01-31,Melgar,Psicóloga,Soltera,Pobre,Sí,198765432,1
+Fernando,Morales,47,11223344,1976-04-14,Majes,Ingeniero Industrial,Viudo,No Pobre,Sí,987654321,2
+Marcela,Chavez,31,22334455,1990-07-08,Lampa,Administradora de Empresas,Casada,Pobre,No,876543210,0
+Jorge,Castro,37,33445566,1986-10-21,Ayaviri,Diseñador Gráfico,Soltero,No Pobre,No,765432109,0
+Elena,Gomez,42,44556677,1979-12-03,Chucuito,Periodista,Casada,No Pobre,Sí,654321098,2
+Ricardo,Ortega,26,55667788,1997-02-16,Acora,Ingeniero de Sistemas,Soltero,Extrema Pobreza,No,543210987,0
+Sandra,Rivera,40,66778899,1983-05-29,Tacna,Profesora,Casada,Extrema Pobreza,Sí,432109876,3
+Pablo,Morales,36,77889900,1987-09-12,Miraflores,Abogado,Casado,No Pobre,Sí,321098765,2
+Monica,Silva,43,88990011,1978-11-02,Juli,Ingeniera de Sistemas,Soltera,No Pobre,No,210987654,0
+Roberto,Cortez,30,99001122,1991-06-15,Macusani,Ingeniero Civil,Casado,Extrema Pobreza,Sí,109876543,1
+Julia,Reyes,34,00112233,1989-03-28,Ilave,Arquitecta,Soltera,Pobre,Sí,098765432,2
+Angelo,Cruz,29,11223344,1992-07-20,Arequipa,Ingeniero Mecánico,Soltero,No Pobre,No,987654321,0
+Diana,Flores,38,22334455,1983-11-13,Puno,Médica,Casada,Extrema Pobreza,Sí,876543210,2
+Martin,Quispe,35,33445566,1986-06-17,Yanahuara,Contador,Soltero,Pobre,No,765432109,0
+Paola,Gonzales,31,44556677,1990-02-08,Arequipa,Abogada,Casada,No Pobre,No,654321098,0
+Gustavo,Rodriguez,47,55667788,1976-04-26,Cerro Colorado,Ingeniero Civil,Viudo,Extrema Pobreza,No,543210987,0
+Rosa,Luna,42,66778899,1979-07-19,Arequipa,Maestra,Casada,No Pobre,Sí,432109876,3
+Miguel,Tapia,39,77889900,1982-12-09,Arequipa,Ingeniero de Sistemas,Soltero,Pobre,No,321098765,0
+Alicia,Campos,33,88990011,1989-02-01,Arequipa,Médica,Soltera,No Pobre,No,210987654,0
+David,Rivero,36,99001122,1986-05-24,Arequipa,Arquitecto,Casado,No Pobre,Sí,109876543,2
+Marisol,Paredes,26,00112233,1997-09-13,Arequipa,Ingeniera Industrial,Soltera,Extrema Pobreza,No,098765432,0
+Javier,Torrico,45,11223344,1978-08-30,Arequipa,Maestro,Soltero,No Pobre,No,987654321,0
+Gabriela,Lopez,41,22334455,1982-01-16,Arequipa,Periodista,Casada,Pobre,No,876543210,0
+Hugo,Vargas,29,33445566,1992-03-25,Arequipa,Economista,Soltero,No Pobre,No,765432109,0
+Ingrid,Valdez,27,44556677,1994-06-11,Arequipa,Psicóloga,Soltera,Extrema Pobreza,No,654321098,0
+Luisa,Rodriguez,31,55667788,1990-09-28,Arequipa,Administradora de Empresas,Casada,No Pobre,Sí,543210987,1
+Cesar,Arce,37,66778899,1985-11-02,Arequipa,Ingeniero Industrial,Soltero,Extrema Pobreza,Sí,432109876,3
+Rocio,Santos,33,77889900,1989-08-12,Arequipa,Enfermera,Soltera,Pobre,Sí,321098765,2
+Carmen,Rojas,35,12345678,1988-02-18,Arequipa,Arquitecta,Casada,Pobre,No,987654321,0
+Hector,Solis,42,23456789,1981-07-23,Puno,Ingeniero Civil,Divorciado,No Pobre,Sí,912345678,2
+Mariana,Gutierrez,28,34567890,1994-04-14,Arequipa,Enfermera,Soltera,No Pobre,No,876543219,0
+Raul,Alvarez,37,45678901,1985-01-09,Socabaya,Contador,Casado,Pobre,Sí,765432198,3
+Eva,Lopez,31,56789012,1991-08-07,Arequipa,Profesora,Soltera,No Pobre,No,654321987,0
+Mario,Rodriguez,46,67890123,1977-12-28,Yanahuara,Ingeniero de Sistemas,Casado,No Pobre,Sí,543219876,2
+Ana,Mendoza,39,78901234,1984-06-19,Miraflores,Psicóloga,Casada,Pobre,Sí,432198765,3
+Renato,Garcia,27,89012345,1995-10-22,Arequipa,Economista,Soltero,Extrema Pobreza,Sí,321987654,1
+Laura,Flores,33,90123456,1989-04-27,Cerro Colorado,Médica,Soltera,Pobre,Sí,219876543,2
+Javier,Paredes,29,01234567,1993-09-08,Arequipa,Ingeniero Electrónico,Soltero,No Pobre,No,198765432,0
+Karina,Quispe,46,11223344,1977-11-01,Arequipa,Maestra,Casada,No Pobre,Sí,987654321,2
+Jose,Gomez,41,22334455,1982-01-16,Arequipa,Abogado,Casado,Extrema Pobreza,Sí,876543210,3
+Rosa,Vargas,38,33445566,1985-08-25,Arequipa,Médica,Viuda,No Pobre,No,765432109,0
+Luis,Torres,44,44556677,1978-06-10,Arequipa,Periodista,Casado,No Pobre,No,654321098,0
+Patricia,Castro,26,55667788,1996-03-19,Arequipa,Contadora,Soltera,Extrema Pobreza,No,543210987,0
+Fernando,Rodriguez,40,66778899,1983-09-02,Arequipa,Ingeniero Civil,Casado,Extrema Pobreza,Sí,432109876,3
+Martha,Santos,35,77889900,1987-11-15,Arequipa,Arquitecta,Soltera,Pobre,No,321098765,0
+Oscar,Morales,43,88990011,1979-12-03,Arequipa,Ingeniero Industrial,Casado,No Pobre,Sí,210987654,2
+Carolina,Perez,36,99001122,1986-05-26,Arequipa,Abogada,Soltera,Pobre,Sí,109876543,1
+Luisa,Mendoza,30,00112233,1992-03-07,Arequipa,Ingeniera de Sistemas,Soltera,Extrema Pobreza,No,098765432,0
+Luis,Fernandez,29,11223344,1993-01-05,Arequipa,Médico,Soltero,Pobre,No,987654321,0
+Claudia,Ortega,39,22334455,1983-04-17,Arequipa,Profesora,Casada,No Pobre,Sí,876543210,2
+Carlos,Torres,36,33445566,1986-07-30,Arequipa,Ingeniero de Sistemas,Soltero,Extrema Pobreza,No,765432109,0
+Gloria,Chavez,45,44556677,1978-03-14,Arequipa,Economista,Viuda,Pobre,Sí,654321098,3
+Daniel,Rojas,33,55667788,1989-10-28,Arequipa,Arquitecto,Soltero,No Pobre,No,543210987,0
+Pamela,Cruz,41,66778899,1982-09-12,Arequipa,Administradora de Empresas,Casada,No Pobre,No,432109876,0
+Andres,Santos,37,77889900,1985-05-09,Arequipa,Diseñador Gráfico,Soltero,No Pobre,No,321098765,0
+Patricia,Silva,32,88990011,1990-02-22,Arequipa,Psicóloga,Casada,Pobre,Sí,210987654,1
+Cesar,Rodriguez,29,99001122,1993-06-25,Arequipa,Periodista,Soltero,Extrema Pobreza,Sí,109876543,2
+Paola,Flores,34,00112233,1988-08-28,Arequipa,Ingeniera de Sistemas,Soltera,Pobre,No,098765432,0
+Diego,Morales,28,11223344,1994-07-06,Arequipa,Arquitecto,Soltero,No Pobre,No,987654321,0
+Carmen,Mendoza,42,22334455,1979-12-13,Arequipa,Contadora,Casada,No Pobre,Sí,876543210,3
+Hugo,Paredes,39,33445566,1983-05-21,Arequipa,Ingeniero Industrial,Soltero,Extrema Pobreza,No,765432109,0
+Rocio,Ortega,37,44556677,1985-08-16,Arequipa,Abogada,Casada,Pobre,Sí,654321098,2
+Eduardo,Silva,31,55667788,1991-02-06,Arequipa,Ingeniero Civil,Soltero,Extrema Pobreza,No,543210987,0
+Lorena,Santos,29,66778899,1993-05-19,Arequipa,Enfermera,Soltera,Extrema Pobreza,No,432109876,0
+Raul,Torres,36,77889900,1986-10-07,Arequipa,Médico,Casado,Pobre,Sí,321098765,1
+Cecilia,Gomez,34,88990011,1989-01-30,Arequipa,Ingeniera Industrial,Soltera,No Pobre,No,210987654,0
+Jorge,Rodriguez,43,99001122,1979-11-24,Arequipa,Arquitecto,Divorciado,No Pobre,Sí,109876543,3
+Patricia,Mendoza,32,00112233,1990-07-21,Arequipa,Maestra,Soltera,Extrema Pobreza,No,098765432,0
+Luis,Rojas,45,11223344,1978-09-04,Arequipa,Ingeniero Mecánico,Casado,No Pobre,Sí,987654321,2
+Gloria,Vargas,38,22334455,1985-12-19,Arequipa,Enfermera,Casada,Extrema Pobreza,Sí,876543210,3
+Oscar,Torres,46,33445566,1977-08-09,Arequipa,Psicóloga,Viuda,No Pobre,No,765432109,0
+Eduardo,Lopez,42,44556677,1981-10-02,Arequipa,Ingeniero de Sistemas,Casado,No Pobre,Sí,654321098,2
+Lorena,Flores,30,55667788,1992-02-18,Arequipa,Periodista,Soltera,Pobre,No,543210987,0
+Carla,Castro,39,66778899,1984-11-13,Arequipa,Ingeniera Civil,Casada,Extrema Pobreza,Sí,432109876,3
+Jose,Santos,35,77889900,1988-05-16,Arequipa,Arquitecta,Soltera,No Pobre,No,321098765,0
+Cesar,Garcia,44,88990011,1979-07-11,Arequipa,Contador,Casado,Pobre,No,210987654,0
+Patricia,Paredes,38,99001122,1985-04-04,Arequipa,Ingeniero Electrónico,Casada,Extrema Pobreza,Sí,109876543,3
+Laura,Mendoza,37,00112233,1986-08-15,Arequipa,Médica,Soltera,Pobre,Sí,098765432,2
+Raul,Rojas,31,11223344,1992-11-10,Arequipa,Abogado,Soltero,No Pobre,No,987654321,0
+Gloria,Vargas,40,22334455,1983-10-27,Arequipa,Psicóloga,Casada,Extrema Pobreza,Sí,876543210,2
+Hector,Castro,36,33445566,1987-03-30,Arequipa,Ingeniero de Sistemas,Soltero,Extrema Pobreza,No,765432109,0
+Renata,Gomez,45,44556677,1978-01-22,Arequipa,Arquitecta,Casada,No Pobre,No,654321098,0
+Claudia,Rodriguez,33,55667788,1989-06-06,Arequipa,Médica,Soltera,No Pobre,No,543210987,0
+Fernando,Rojas,41,66778899,1982-07-29,Arequipa,Abogado,Casado,Extrema Pobreza,Sí,432109876,3
+Karla,Perez,37,77889900,1985-12-10,Arequipa,Ingeniera Industrial,Soltera,No Pobre,No,321098765,0
+Juan,Mendoza,30,88990011,1992-10-13,Arequipa,Periodista,Casado,Pobre,Sí,210987654,1
+Ana,Torres,28,99001122,1994-03-16,Arequipa,Arquitecto,Soltera,Extrema Pobreza,No,109876543,0
+Luis,Gutierrez,44,00112233,1978-11-23,Arequipa,Contador,Casado,No Pobre,Sí,098765432,2
+Gloria,Campos,38,11223344,1983-03-19,Arequipa,Ingeniero Civil,Soltera,No Pobre,No,987654321,0
+Karina,Fernandez,46,22334455,1977-09-12,Arequipa,Enfermera,Viuda,No Pobre,No,876543210,0
+Hector,Santos,36,33445566,1987-08-25,Arequipa,Maestra,Soltero,Pobre,No,765432109,0
+Patricia,Rojas,41,44556677,1982-12-10,Arequipa,Médica,Casada,Extrema Pobreza,Sí,654321098,3
+Ricardo,Torres,35,55667788,1988-06-03,Arequipa,Periodista,Casado,No Pobre,No,543210987,0
+Andrea,Paredes,32,66778899,1990-04-17,Arequipa,Ingeniera Industrial,Soltera,Pobre,Sí,432109876,2
+Elena,Lopez,39,77889900,1984-03-13,Arequipa,Ingeniero de Sistemas,Casada,Extrema Pobreza,Sí,321098765,2
+Javier,Silva,44,88990011,1979-10-17,Arequipa,Abogada,Divorciada,No Pobre,No,210987654,0
+Carmen,Rojas,37,99001122,1985-07-10,Arequipa,Médica,Casada,No Pobre,No,109876543,0
+Rosa,Flores,34,00112233,1988-02-04,Arequipa,Ingeniera de Sistemas,Soltera,Extrema Pobreza,No,098765432,0
+Claudia,Morales,46,11223344,1977-03-15,Arequipa,Maestra,Viuda,No Pobre,Sí,987654321,2
+Fernando,Vargas,42,22334455,1981-08-20,Arequipa,Ingeniero Industrial,Divorciado,No Pobre,Sí,876543210,3
+Ricardo,Torres,38,33445566,1984-11-23,Arequipa,Abogado,Soltero,Extrema Pobreza,Sí,765432109,3
+Cecilia,Rodriguez,45,44556677,1978-09-26,Arequipa,Psicóloga,Viuda,Pobre,No,654321098,0
+Patricia,Gomez,33,55667788,1989-12-06,Arequipa,Contadora,Casada,No Pobre,No,543210987,0
+Carlos,Rojas,39,66778899,1984-01-09,Arequipa,Ingeniero de Sistemas,Soltero,Extrema Pobreza,No,432109876,0
+Gloria,Paredes,37,77889900,1986-11-17,Arequipa,Arquitecta,Casada,Pobre,Sí,321098765,2
+Rocio,Ortega,30,88990011,1992-03-28,Arequipa,Médica,Soltera,No Pobre,No,210987654,0
+Luis,Mendoza,29,99001122,1993-01-10,Arequipa,Periodista,Soltero,Extrema Pobreza,No,109876543,0
+Karina,Garcia,45,00112233,1978-05-04,Arequipa,Ingeniera Industrial,Casada,Pobre,No,098765432,0
+Luisa,Rodriguez,42,11223344,1981-04-19,Arequipa,Abogada,Divorciada,No Pobre,Sí,987654321,2
+Carlos,Torres,39,22334455,1984-07-12,Arequipa,Ingeniero de Sistemas,Soltero,Extrema Pobreza,No,876543210,0
+Raul,Rojas,30,33445566,1991-10-14,Arequipa,Médica,Soltero,Pobre,No,765432109,0
+Gloria,Vargas,46,44556677,1977-08-29,Arequipa,Psicóloga,Viuda,No Pobre,No,654321098,0
+Oscar,Castro,41,55667788,1982-09-11,Arequipa,Ingeniero Civil,Casado,No Pobre,No,543210987,0
+Renata,Mendoza,38,66778899,1985-07-20,Arequipa,Enfermera,Soltera,Extrema Pobreza,No,432109876,0
+Claudia,Flores,32,77889900,1989-02-28,Arequipa,Arquitecta,Soltera,No Pobre,No,321098765,0
+Jorge,Rojas,44,88990011,1978-06-03,Arequipa,Ingeniero Industrial,Divorciado,No Pobre,No,210987654,0
+Gloria,Torres,37,99001122,1985-05-14,Arequipa,Abogada,Soltera,Extrema Pobreza,Sí,109876543,1
+Laura,Flores,34,00112233,1988-03-17,Arequipa,Ingeniera de Sistemas,Soltera,Pobre,No,098765432,0
+Cesar,Rodriguez,46,11223344,1977-09-10,Arequipa,Médica,Casado,Extrema Pobreza,Sí,987654321,2
+Patricia,Rojas,40,22334455,1983-08-23,Arequipa,Psicóloga,Casada,Extrema Pobreza,Sí,876543210,2
+Renato,Santos,36,33445566,1987-11-26,Arequipa,Arquitecto,Soltero,Extrema Pobreza,No,765432109,0
+Rosa,Torres,41,44556677,1982-12-29,Arequipa,Ingeniero Civil,Casada,No Pobre,No,654321098,0
+Gloria,Paredes,35,55667788,1988-09-05,Arequipa,Periodista,Casada,No Pobre,No,543210987,0
+Carlos,Rojas,32,66778899,1990-04-18,Arequipa,Ingeniero de Sistemas,Soltero,Extrema Pobreza,No,432109876,0
+Patricia,Vargas,40,77889900,1983-05-31,Arequipa,Arquitecta,Casada,Pobre,No,321098765,0
+Luis,Rodriguez,38,88990011,1986-11-14,Arequipa,Contador,Casado,Extrema Pobreza,Sí,210987654,3
+Sandra,Flores,32,99001122,1991-05-22,Arequipa,Médica,Soltera,Pobre,Sí,109876543,2
+Andres,Mendoza,46,00112233,1977-02-17,Arequipa,Arquitecto,Casado,Extrema Pobreza,Sí,098765432,3
+Luisa,Gomez,41,11223344,1982-09-13,Arequipa,Psicóloga,Casada,No Pobre,Sí,987654321,2
+Ricardo,Silva,38,22334455,1985-10-09,Arequipa,Ingeniero Civil,Casado,No Pobre,No,876543210,0
+Elena,Torres,34,33445566,1988-03-24,Arequipa,Maestra,Soltera,No Pobre,No,765432109,0
+Carlos,Rojas,46,44556677,1977-05-19,Arequipa,Contador,Viudo,No Pobre,No,654321098,0
+Gloria,Vargas,40,55667788,1983-01-27,Arequipa,Ingeniero de Sistemas,Casada,Extrema Pobreza,No,543210987,0
+Renato,Flores,35,66778899,1987-10-18,Arequipa,Arquitecta,Soltera,No Pobre,No,432109876,0
+Rosa,Rojas,33,77889900,1989-06-08,Arequipa,Psicóloga,Soltera,Extrema Pobreza,No,321098765,0
+Andres,Torres,42,88990011,1981-05-11,Arequipa,Ingeniero de Sistemas,Casado,Pobre,Sí,210987654,2
+Fernando,Rojas,39,99001122,1984-08-25,Arequipa,Contador,Casado,No Pobre,No,109876543,0
+Sandra,Garcia,37,00112233,1986-12-30,Arequipa,Médica,Soltera,No Pobre,No,098765432,0
+Eva,Torres,44,11223344,1979-07-06,Arequipa,Periodista,Divorciada,Pobre,No,987654321,0
+Carlos,Rojas,40,22334455,1983-09-10,Arequipa,Ingeniero Civil,Casado,No Pobre,No,876543210,0
+Patricia,Rodriguez,38,33445566,1985-07-23,Arequipa,Médica,Soltera,Extrema Pobreza,No,765432109,0
+Gloria,Flores,33,44556677,1989-05-27,Arequipa,Psicóloga,Casada,Extrema Pobreza,Sí,654321098,1
+Renato,Santos,46,55667788,1977-12-11,Arequipa,Arquitecto,Casado,Extrema Pobreza,Sí,543210987,3
+Carlos,Torres,39,66778899,1984-04-14,Arequipa,Contador,Soltero,No Pobre,No,432109876,0
+Luis,Rojas,35,77889900,1988-07-17,Arequipa,Periodista,Soltero,No Pobre,No,321098765,0
+Gloria,Vargas,42,88990011,1981-09-30,Arequipa,Ingeniera Industrial,Casada,Pobre,No,210987654,0
+Ricardo,Paredes,40,99001122,1983-11-23,Arequipa,Enfermera,Casado,Extrema Pobreza,Sí,109876543,3
+Renata,Rodriguez,35,00112233,1988-06-15,Arequipa,Psicóloga,Casada,Pobre,Sí,098765432,2
+Claudia,Santos,43,11223344,1978-02-10,Arequipa,Periodista,Casada,No Pobre,No,987654321,0
+Carlos,Torres,39,22334455,1984-06-24,Arequipa,Ingeniero Civil,Casado,No Pobre,No,876543210,0
+Patricia,Paredes,36,33445566,1987-09-12,Arequipa,Médica,Viuda,No Pobre,No,765432109,0
+Gloria,Rojas,40,44556677,1983-08-14,Arequipa,Psicóloga,Casada,Extrema Pobreza,Sí,654321098,3
+Fernando,Vargas,37,55667788,1986-10-05,Arequipa,Ingeniero de Sistemas,Soltero,Extrema Pobreza,No,543210987,0
+Rosa,Torres,43,66778899,1978-02-28,Arequipa,Psicóloga,Casada,No Pobre,No,432109876,0
+Renato,Rojas,40,77889900,1983-04-23,Arequipa,Arquitecto,Casado,No Pobre,No,321098765,0
+Gloria,Vargas,36,88990011,1986-08-15,Arequipa,Médica,Soltera,Extrema Pobreza,No,210987654,0
+Carlos,Torres,33,99001122,1989-10-28,Arequipa,Periodista,Soltero,Extrema Pobreza,No,109876543,0
+Luisa,Flores,44,00112233,1977-12-03,Arequipa,Contadora,Divorciada,No Pobre,No,098765432,0
+Patricia,Santos,42,11223344,1981-09-15,Arequipa,Ingeniera Industrial,Casada,Pobre,Sí,987654321,2
+Gloria,Paredes,37,22334455,1986-11-08,Arequipa,Periodista,Casada,No Pobre,No,876543210,0
+Carlos,Rojas,40,33445566,1983-02-17,Arequipa,Arquitecto,Casado,Extrema Pobreza,Sí,765432109,3
+Renata,Gomez,36,44556677,1987-06-22,Arequipa,Psicóloga,Soltera,No Pobre,No,654321098,0
+Gloria,Torres,42,55667788,1981-05-29,Arequipa,Contadora,Casada,Pobre,No,543210987,0
+Carlos,Rojas,37,66778899,1984-03-08,Arequipa,Ingeniero de Sistemas,Soltero,Extrema Pobreza,No,432109876,0
+Patricia,Vargas,44,77889900,1979-07-03,Arequipa,Psicóloga,Viuda,No Pobre,No,321098765,0
+Fernando,Flores,41,88990011,1982-09-26,Arequipa,Periodista,Casado,Extrema Pobreza,Sí,210987654,3
+Renata,Santos,36,99001122,1987-02-09,Arequipa,Arquitecta,Soltera,Pobre,Sí,109876543,1
+Carlos,Rojas,34,00112233,1989-10-01,Arequipa,Ingeniero de Sistemas,Soltero,Extrema Pobreza,No,098765432,0
+Gloria,Vargas,42,11223344,1981-04-15,Arequipa,Periodista,Casada,Extrema Pobreza,Sí,987654321,2
+Ricardo,Torres,38,22334455,1985-09-19,Arequipa,Ingeniero de Sistemas,Casado,No Pobre,No,876543210,0
+Renato,Rojas,35,33445566,1988-06-22,Arequipa,Periodista,Soltero,No Pobre,No,765432109,0
+Gloria,Paredes,41,44556677,1982-10-12,Arequipa,Psicóloga,Casada,Extrema Pobreza,Sí,654321098,2
+Carlos,Torres,38,55667788,1985-09-25,Arequipa,Ingeniero Civil,Casado,No Pobre,No,543210987,0
+Patricia,Santos,35,66778899,1988-08-16,Arequipa,Médica,Casada,No Pobre,No,432109876,0
+Gloria,Vargas,41,77889900,1982-12-19,Arequipa,Periodista,Casada,Extrema Pobreza,Sí,321098765,2
+Renata,Flores,38,88990011,1985-10-22,Arequipa,Psicóloga,Soltera,Extrema Pobreza,No,210987654,0
+Carlos,Rojas,36,99001122,1987-12-15,Arequipa,Ingeniero de Sistemas,Soltero,Extrema Pobreza,No,109876543,0
+Patricia,Paredes,40,00112233,1983-03-28,Arequipa,Arquitecta,Casada,Extrema Pobreza,Sí,098765432,2
+Ricardo,Torres,37,11223344,1986-05-21,Arequipa,Periodista,Casado,No Pobre,No,987654321,0
+Renata,Rojas,41,22334455,1982-08-14,Arequipa,Ingeniera Industrial,Casada,No Pobre,No,876543210,0
+Carlos,Torres,38,33445566,1985-11-27,Arequipa,Arquitecta,Soltera,Extrema Pobreza,No,765432109,0
+Gloria,Santos,36,44556677,1987-05-30,Arequipa,Médica,Casada,Extrema Pobreza,No,654321098,0
+Renato,Flores,40,55667788,1983-09-23,Arequipa,Periodista,Casado,Pobre,No,543210987,0
+Carlos,Rojas,37,66778899,1984-05-12,Arequipa,Contador,Soltero,No Pobre,No,432109876,0
+Patricia,Vargas,41,77889900,1982-03-05,Arequipa,Ingeniera Industrial,Casada,No Pobre,No,321098765,0
+Gloria,Torres,38,88990011,1985-07-28,Arequipa,Psicóloga,Viuda,Extrema Pobreza,No,210987654,0
+Renata,Rojas,36,99001122,1987-06-01,Arequipa,Arquitecta,Soltera,Extrema Pobreza,No,109876543,0
+Carlos,Torres,42,00112233,1981-09-14,Arequipa,Ingeniero Civil,Casado,Extrema Pobreza,Sí,098765432,1
+Gloria,Vargas,40,11223344,1983-07-27,Arequipa,Psicóloga,Casada,Pobre,No,987654321,0
+Patricia,Paredes,37,22334455,1986-05-10,Arequipa,Periodista,Soltera,Extrema Pobreza,No,876543210,0
+Carlos,Rojas,42,33445566,1981-06-23,Arequipa,Contadora,Casada,No Pobre,No,765432109,0
+Renato,Flores,38,44556677,1985-01-26,Arequipa,Médica,Soltera,Extrema Pobreza,No,654321098,0
+Gloria,Santos,41,55667788,1982-05-20,Arequipa,Ingeniera Industrial,Casada,Extrema Pobreza,Sí,543210987,2
+Carlos,Rojas,37,66778899,1984-10-13,Arequipa,Periodista,Soltero,Extrema Pobreza,No,432109876,0
+Patricia,Vargas,43,77889900,1978-09-16,Arequipa,Psicóloga,Casada,Extrema Pobreza,Sí,321098765,3
+Gloria,Torres,40,88990011,1983-03-29,Arequipa,Contador,Casada,No Pobre,No,210987654,0
+Renata,Rojas,38,99001122,1985-02-11,Arequipa,Ingeniera de Sistemas,Soltera,Extrema Pobreza,No,109876543,0
+Carlos,Torres,36,00112233,1987-04-18,Arequipa,Periodista,Soltero,Extrema Pobreza,No,098765432,0
+Patricia,Paredes,41,11223344,1982-01-21,Arequipa,Médica,Casada,Pobre,Sí,987654321,3
+Gloria,Santos,39,22334455,1984-06-14,Arequipa,Psicóloga,Casada,Extrema Pobreza,No,876543210,0
+Renata,Flores,37,33445566,1986-11-12,Arequipa,Periodista,Soltera,No Pobre,No,765432109,0
+Carlos,Rojas,42,44556677,1981-12-15,Arequipa,Ingeniero de Sistemas,Casado,Extrema Pobreza,No,654321098,0
+Patricia,Vargas,40,55667788,1983-09-28,Arequipa,Psicóloga,Casada,No Pobre,No,543210987,0
+Gloria,Torres,38,66778899,1985-07-11,Arequipa,Ingeniera Industrial,Soltera,Pobre,No,432109876,0
+Renato,Rojas,43,77889900,1978-03-14,Arequipa,Periodista,Casado,No Pobre,No,321098765,0
+Carlos,Torres,41,88990011,1982-05-27,Arequipa,Arquitecta,Casada,Extrema Pobreza,Sí,210987654,2
+Patricia,Paredes,39,99001122,1984-11-01,Arequipa,Psicóloga,Casada,Pobre,No,109876543,0
+Gloria,Santos,38,00112233,1985-06-20,Arequipa,Ingeniera Industrial,Soltera,Extrema Pobreza,No,098765432,0
+Renata,Flores,43,11223344,1978-09-23,Arequipa,Periodista,Divorciada,Extrema Pobreza,Sí,987654321,3
+Carlos,Rojas,41,22334455,1982-02-26,Arequipa,Contadora,Casada,No Pobre,No,876543210,0
+Patricia,Vargas,39,33445566,1984-12-29,Arequipa,Psicóloga,Soltera,Pobre,Sí,765432109,2
+Gloria,Torres,38,44556677,1985-10-19,Arequipa,Ingeniera de Sistemas,Casada,Extrema Pobreza,No,654321098,0
+Renata,Rojas,43,55667788,1978-01-24,Arequipa,Periodista,Casada,Pobre,No,543210987,0
+Carlos,Torres,41,66778899,1982-06-27,Arequipa,Médica,Casado,Extrema Pobreza,No,432109876,0
+Patricia,Paredes,39,77889900,1984-11-01,Arequipa,Psicóloga,Soltera,No Pobre,No,321098765,0
+Gloria,Santos,38,88990011,1985-09-12,Arequipa,Ingeniera de Sistemas,Soltera,Extrema Pobreza,No,210987654,0
+Renato,Flores,43,99001122,1978-04-25,Arequipa,Periodista,Casado,Pobre,Sí,109876543,1
+Carlos,Rojas,41,00112233,1982-07-28,Arequipa,Arquitecto,Casado,Extrema Pobreza,Sí,098765432,3
+Patricia,Paredes,39,11223344,1984-11-01,Arequipa,Psicóloga,Soltera,No Pobre,No,987654321,0
+Gloria,Santos,38,22334455,1985-09-12,Arequipa,Médica,Soltera,Extrema Pobreza,No,876543210,0
+Renato,Flores,43,33445566,1978-04-25,Arequipa,Periodista,Casado,Pobre,Sí,765432109,1
+Carlos,Rojas,41,44556677,1982-07-28,Arequipa,Arquitecto,Casado,Extrema Pobreza,Sí,654321098,3
+Patricia,Paredes,39,55667788,1984-11-01,Arequipa,Psicóloga,Soltera,No Pobre,No,543210987,0
+Gloria,Santos,38,66778899,1985-09-12,Arequipa,Médica,Soltera,Extrema Pobreza,No,432109876,0
+Renato,Flores,43,77889900,1978-04-25,Arequipa,Periodista,Casado,Pobre,Sí,321098765,1
+Carlos,Rojas,41,88990011,1982-07-28,Arequipa,Arquitecto,Casado,Extrema Pobreza,Sí,210987654,3
+Patricia,Paredes,39,99001122,1984-11-01,Arequipa,Psicóloga,Soltera,No Pobre,No,109876543,0
+Gloria,Santos,38,00112233,1985-09-12,Arequipa,Médica,Soltera,Extrema Pobreza,No,098765432,0
+Renato,Flores,43,11223344,1978-04-25,Arequipa,Periodista,Casado,Pobre,Sí,987654321,1
+Carlos,Rojas,41,22334455,1982-07-28,Arequipa,Arquitecto,Casado,Extrema Pobreza,Sí,876543210,3
+Patricia,Paredes,39,33445566,1984-11-01,Arequipa,Psicóloga,Soltera,No Pobre,No,765432109,0
+Gloria,Santos,38,44556677,1985-09-12,Arequipa,Médica,Soltera,Extrema Pobreza,No,654321098,0
+Renato,Flores,43,55667788,1978-04-25,Arequipa,Periodista,Casado,Pobre,Sí,543210987,1
+Carlos,Rojas,41,66778899,1982-07-28,Arequipa,Arquitecto,Casado,Extrema Pobreza,Sí,432109876,3
+Patricia,Paredes,39,77889900,1984-11-01,Arequipa,Psicóloga,Soltera,No Pobre,No,321098765,0
+Gloria,Santos,38,88990011,1985-09-12,Arequipa,Médica,Soltera,Extrema Pobreza,No,210987654,0
+Renato,Flores,43,99001122,1978-04-25,Arequipa,Periodista,Casado,Pobre,Sí,109876543,1
