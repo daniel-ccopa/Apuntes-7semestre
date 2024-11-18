@@ -1,1 +1,13 @@
-streamlit
+pandas
+matplotlib
+seaborn
+scipy
+opencv-python
+plotly
+scikit-learn
+xgboost
+lightgbm
+catboost
+statsmodels
+shap
+optuna
